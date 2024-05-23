@@ -11,7 +11,7 @@
   - Android things
   - Anything I can actually learn
 - 📫 How to reach me
-  - Discord: Owlen#3627
+  - Discord: Owlen
 
 <!---
 This is what comments look like in case I ever need to know what I'm doing
